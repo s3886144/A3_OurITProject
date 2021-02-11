@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<title>Senior Backend Mobile Developer (iOS and Android)</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+
+	<section id="first">
+			<article class="container box style3">
+				<header>
+					<h2>Plasss-Tech: Senior Backend Mobile Developer (iOS and Android)</h2>
+				</header>
+					<center>
+				<br><img src="Backend.png" width="500" height="334"> <br><b>Image via art.earth</b><br>
+					</center>
+					<p><strong>The Role:</strong><br>
+
+<br>The team at PLASSS-Tech are currently developing a children’s audiobook app, and we are searching for a permanent, full-time developer to join the team!
+As a Backend Mobile Developer, you’ll work in a cross functional team of UI/UX designers, cyber security architects, technical support specialists and engineers to build our mobile application, Kids Storytime: Read, Record & Replay. The app will be built in the Android ecosystem (Kotlin, Java) and iOS (Objective C, Swift)
+Your responsibilities will range from designing the API and database, to architecture, to developing payment processing systems. You will be a self-motivated Mobile Developer with a keen eye for detail and problem-solving skills.  You need to have strong communication and interpersonal skills and bring your experience in mobile development frameworks.</br>
+<p><strong>Skills:</strong><br>
+<ul>
+<li>High proficiency coding in Objective C, Java, Kotlin, Swift.</li>
+<li>Experience and understanding of Object Orienting programming and design patterns.</li>
+<li>Proficient understanding of GIT version control.</li>
+<li>Knowledge of Android and iOS development practices and familiarity with the individual SDKs.</li>
+<li>Familiar with Xcode and JDK/Eclipse.</li>
+<li>Ability to write clean, high quality code.</li>
+<li>Excellent debugging and optimisation skills.</li> 
+<li>Excellent communication skills.</li><br>
+
+</ul></p>
+<p><br><strong>Requirements:</strong><br>
+<ul>
+	<li>Bachelor's degree in Computer science, I.T or equivalent field.</li>
+	<li>Minimum 3 years' experience with native iOS development in Swift, and Kotlin for Android.</li>
+</p>
+
+				</header>
+			</article>
+		</section>
+
+		<section id="second">
+		<article class="container box style3">
+			<header>
+				<h2>Reference List</h2>
+			</header>
+     			<p>D. Spratt and I. Dunlop, '<i>What Lies Beneath. 2018.</i>', viewed 11th February 2021, <a href="https://artdotearth.org/what-lies-beneath/">https://artdotearth.org/what-lies-beneath/</a>
+</p>
+<footer>
+	<center>
+<a href="index" class="button style1 scrolly-middle">Back</a>
+</Center>
+</footer>
+		</article>
+		</section>
